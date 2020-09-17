@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\bin\Debug\FormBackgroundLinear.exe.config
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\bin\Debug\FormBackgroundLinear.exe
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\bin\Debug\FormBackgroundLinear.pdb
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\bin\Debug\FormBackgroundLinear.xml
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\obj\Debug\FormBackgroundLinear.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\obj\Debug\FormBackgroundLinear.Frm_Bg_Linear.resources
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\obj\Debug\FormBackgroundLinear.Resources.resources
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\obj\Debug\FormBackgroundLinear.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\obj\Debug\FormBackgroundLinear.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\obj\Debug\FormBackgroundLinear.exe
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\obj\Debug\FormBackgroundLinear.xml
+C:\Users\Usuario\source\repos\FormBackgroundLinear\FormBackgroundLinear\obj\Debug\FormBackgroundLinear.pdb
